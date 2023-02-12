@@ -2,6 +2,11 @@
 
 This repository is a proof of concept for creating data models for directus programmatically instead of with the admin UI.
 
+## Install Deps
+
+1. npm i -g rimraf
+2. npm i -g typescript
+
 ## Quickstart Guide
 
 1. Install packages: `make install` or `npm i && cd templates && npm i`
